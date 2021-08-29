@@ -7,6 +7,12 @@ A set of reusable [React Hooks](https://reactjs.org/docs/hooks-intro.html) for [
 
 **This documentation is for v3 of React Firebase Hooks which involved a number of breaking changes, including adding support for Firebase v8.0.0 - more details [here](https://github.com/CSFrequency/react-firebase-hooks/releases/tag/v3.0.0). For v2 documentation, see [here](https://github.com/CSFrequency/react-firebase-hooks/tree/v2.2.0).**
 
+## Fork description
+
+This is a fork of [react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) with [PR #153](https://github.com/CSFrequency/react-firebase-hooks/pull/153) merged. This PR adds support for Firebase 9.
+
+Note that this fork might be abandoned or removed if/when the PR is merged into the upstream repo - don't use this fork in production!
+
 ## Installation
 
 React Firebase Hooks v3 requires **React 16.8.0 or later** and **Firebase v8.0.0 or later**.
